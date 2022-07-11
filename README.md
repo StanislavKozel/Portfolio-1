@@ -21,7 +21,9 @@
 ## Hero Logo
  - Fixed within the header at the top of every page 
 ## Navigation bar
- - 
+ - featured on every page below header
+ - Including a Home, About us, Our store and Visit us buttons with links to coresponding pages 
+ ## Home page
 # Technologies used
 # Testing
 # Deployment
