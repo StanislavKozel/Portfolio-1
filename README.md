@@ -23,7 +23,8 @@
 ## Navigation bar
  - featured on every page below header
  - Including a Home, About us, Our store and Visit us buttons with links to coresponding pages 
- ## Home page
+## Home page
+ - Features header with logo navigation bar and an image of the shop
 # Technologies used
 # Testing
 # Deployment
