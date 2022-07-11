@@ -17,6 +17,11 @@
 # Wireframes
 
 # Features
+## Existing Features
+## Hero Logo
+ - Fixed within the header at the top of every page 
+## Navigation bar
+ - 
 # Technologies used
 # Testing
 # Deployment
