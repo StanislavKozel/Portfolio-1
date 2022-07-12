@@ -24,10 +24,30 @@
  - featured on every page below header
  - Including a Home, About us, Our store and Visit us buttons with links to coresponding pages 
 ## Home page
- - Features header with logo navigation bar and an image of the shop
+ - Features header with hero logo  
+ - navigation bar 
+ - an image of the shop
  - from home page we gain  access to About us page, Store page and Visit us page
 ## About us
-# Technologies used
+ - User can find a few words about history of our company, and where it all sterted.
+ - link to our gallery
+ - link to our contact form
+ - link to our newsletter sign up form
+## Our store
+ - header with hero logo sat at the top of the page
+ - search bar below the header for quick find of a desired product
+ - webpage includes two different list 
+    - motorcycles
+    - clothing
+## Contact us
+ - page includes a two different types of form
+   - general enquiry
+   - newsletters
+## gallery
+ - user can view a few photos from inside and outside the shop
+# Technology used
+ - HTML5
+ - CSS3
 # Testing
 # Deployment
 # Credits
