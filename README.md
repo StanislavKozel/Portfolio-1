@@ -15,13 +15,13 @@
  - access the website in any browser
 # Fonts and Colors
 # Wireframes
-![Site map](vscode-remote://stanislavko-bikersforbi-z0pyq2fnedw.ws-eu53.gitpod.io/workspace/Bikers-for-Bikers/docs/Screenshot.site.map.png)
-![Home page](vscode-remote://stanislavko-bikersforbi-z0pyq2fnedw.ws-eu53.gitpod.io/workspace/Bikers-for-Bikers/docs/Screenshot.home.page.png)
-![About us](vscode-remote://stanislavko-bikersforbi-z0pyq2fnedw.ws-eu53.gitpod.io/workspace/Bikers-for-Bikers/docs/Screenshot.about.us.png)
-![Our store](vscode-remote://stanislavko-bikersforbi-z0pyq2fnedw.ws-eu53.gitpod.io/workspace/Bikers-for-Bikers/docs/Screenshot.Our.store.png)
-![Contact us](vscode-remote://stanislavko-bikersforbi-z0pyq2fnedw.ws-eu53.gitpod.io/workspace/Bikers-for-Bikers/docs/Screenshot.contact.us.png)
-![Gallery](vscode-remote://stanislavko-bikersforbi-z0pyq2fnedw.ws-eu53.gitpod.io/workspace/Bikers-for-Bikers/docs/Screenshot.gallery.png)
-![Visit us](vscode-remote://stanislavko-bikersforbi-z0pyq2fnedw.ws-eu53.gitpod.io/workspace/Bikers-for-Bikers/docs/Screenshot.visit.us.png)
+![Site map](//Bikers-for-Bikers/docs/Screenshot.site.map.png)
+![Home page](//Bikers-for-Bikers/docs/Screenshot.home.page.png)
+![About us](//Bikers-for-Bikers/docs/Screenshot.about.us.png)
+![Our store](//Bikers-for-Bikers/docs/Screenshot.Our.store.png)
+![Contact us](/Bikers-for-Bikers/docs/Screenshot.contact.us.png)
+![Gallery](//Bikers-for-Bikers/docs/Screenshot.gallery.png)
+![Visit us](//Bikers-for-Bikers/docs/Screenshot.visit.us.png)
 # Features
 ## Existing Features
 ## Hero Logo
