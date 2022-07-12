@@ -25,6 +25,8 @@
  - Including a Home, About us, Our store and Visit us buttons with links to coresponding pages 
 ## Home page
  - Features header with logo navigation bar and an image of the shop
+ - from home page we gain  access to About us page, Store page and Visit us page
+## About us
 # Technologies used
 # Testing
 # Deployment
