@@ -58,6 +58,8 @@
  - shop adress
  - google map
  - opening hours 
+## Footer
+ - classic footer with links to social media positioned to the right hand side 
 # Technology used
  - HTML5
  - CSS3
