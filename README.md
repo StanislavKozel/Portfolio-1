@@ -1,11 +1,11 @@
 # Bikers for Bikers
-# Contents
+# Content
 # Project Overview
  - A website for for anyone who would like to purchase a motorcycle, motorcycle accessories, or clothing for them selfs or for their loved ones.  
 # UX
  - Bikers for Bikers was design to provide easy navigation throughout the website with simple to read text and photos.
 # User Stories
-### As a user, I would like to 
+## As a user, I would like to 
  - easy navigate throughout the website
  - find relative information about the product
  - contact the store with any enquiry
@@ -65,7 +65,7 @@
  - google map
  - opening hours 
 ## Footer
- - classic footer with links to social media positioned to the right hand side 
+ - a classic footer with links to social media positioned to the right hand side 
 # Technology used
  - HTML5
  - CSS3
