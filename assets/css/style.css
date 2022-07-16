@@ -40,7 +40,6 @@ h1 {
     margin-left: 4px;
 }
 #navbar a:hover {
-    border-bottom: 1px solid blue;
     color: blue;
 }
 /* hero image */
@@ -49,4 +48,35 @@ h1 {
     width: 100%;
     background: url(../image/Husqvarna-Dealer3.jpg) no-repeat center center;
     overflow: hidden;
+    text-align: center;
+}
+#hero-image p {
+    width: 50%;
+    height: 50px;
+    color:rgb(0, 0, 0);
+    margin-top: 250px;
+    font-weight: bold;
+    font-size: 120%;
+    display: inline-block;
+}
+.store {
+    color: rgb(57, 62, 68);
+    text-decoration: none;
+    font-size: 150%;
+    display: block;
+    background-color: none;
+    margin-top: 3%;
+}
+.store:hover {
+    color: blue;
+}
+/* footer */
+#footer {
+    height: 20px;
+    width: 100%;
+    background-color: #d3d3d3;
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px 0px;
+
 }
