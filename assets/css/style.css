@@ -78,5 +78,7 @@ h1 {
     border: 1px solid black;
     text-align: center;
     padding: 20px 0px;
-
+}
+#footer a {
+    text-decoration: none;
 }
