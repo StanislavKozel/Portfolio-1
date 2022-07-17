@@ -200,8 +200,14 @@ input {
 }
 /* visit us page */
 .open-hours {
-    height: 200px;
+    height: 120px;
     width: 80%;
+    margin-left: 10%;
+}
+table {
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
 }
 .address {
     height: 120px;
@@ -220,7 +226,5 @@ input {
     height: 200px;
     width: 100%;
 }
-
-
 
 }
