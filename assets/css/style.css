@@ -222,6 +222,7 @@ table {
     width: 100%;
 }
 /* contact us page */
+/* general enquiries form */
 .g-e {
     width: 90%;
     height: 280px;
@@ -233,9 +234,28 @@ table {
     font-weight: bold;
     text-align: center;
 }
+.g-e input {
+    width: 80%;
+    margin-left: 5%;
+    margin-top: 2px;
+    padding: 2px;
+    border-radius: 5px;
+}
+.g-e label {
+    width: 50%;
+    padding-left: 5%;
+}
+textarea {
+    width: 80%;
+    margin-left: 5%;
+    margin-top: 2%;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+/* newsletter form */
 .newsl {
     width: 90%;
-    height: 85px;
+    height: 100px;
     border: 1px solid black;
     border-radius: 5px;
     margin-left: 5%;
@@ -244,4 +264,20 @@ table {
     font-weight: bold;
     text-align: center;
 }
+.newsl input {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2px;
+    padding: 2px;
+    border-radius: 5px;
+}
+input[type=submit] {
+    width: 50px;
+    margin-left: 75%;
+}
+input[type=submit]:hover {
+    background-color: #110eda;
+    color: rgb(251, 255, 0);
+}
+
 }
