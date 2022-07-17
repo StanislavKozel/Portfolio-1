@@ -159,22 +159,19 @@ input {
     padding-top: 15px;
     text-decoration: underline;
     color: rgb(0, 0, 0);
-    /* color: rgb(251, 255, 0); */
 }
 .clothing ul {
     padding-top: 30px;
     color:rgb(0, 0, 0);
     list-style-type: none;
-    /* color: rgb(251, 255, 0); */
 }
 /* About Us page */
 .about-us {
     width: 80%;
     height: 150px;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 10px;
     margin-left: 10%;
-    margin-right: 10%;
     background-color: #cecece;
 }
 .about-us h2 {
@@ -185,7 +182,6 @@ input {
     height: 70px;
     text-align: center;
     padding-top: 10px;
-    border: 1px solid black;
     margin: 5% 10%; 
     background-color: #cecece;
 }
@@ -194,7 +190,6 @@ input {
     height: 70px;
     text-align: center;
     padding-top: 10px;
-    border: 1px solid black;
     margin: 5% 10%;
     background-color: #cecece;
 }
