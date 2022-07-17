@@ -221,5 +221,27 @@ table {
     height: 200px;
     width: 100%;
 }
-
+/* contact us page */
+.g-e {
+    width: 90%;
+    height: 280px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 5%;
+}
+.g-e legend {
+    font-weight: bold;
+    text-align: center;
+}
+.newsl {
+    width: 90%;
+    height: 85px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 5%;
+}
+.newsl legend {
+    font-weight: bold;
+    text-align: center;
+}
 }
