@@ -130,7 +130,7 @@ input {
     padding-top: 30px;
     color:rgb(0, 0, 0);
     list-style-type: none;
-    /* color: rgb(251, 255, 0); */
+    
 }
 .clothing {
     width: 80%;
@@ -142,11 +142,6 @@ input {
     margin-right: 10%;
     padding: 0;
     border: 3px solid white;
-    /*background-color: rgb(127, 187, 255);
-    background-image: url(../image/shop-view.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover; */
 }
 .clothing h2 {
     height: 20px;
