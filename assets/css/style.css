@@ -9,15 +9,16 @@
     border: none;
 }
 
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) { */
     /* body font style */
 body {
     font-family: "lato", sans-serif;
-    
+    background-color: #110eda;
+    color: white;
 }
 #header {
     width: 100%;
-    height: 80px;
+    height: 120px;
     background-color: #110eda;
     border: 1px solid black;
 }
@@ -63,33 +64,31 @@ h1 {
     color:#110eda;
 }
 /* hero image text */
- .hero-text { 
+.hero-text { 
     text-align: center;
-    position: absolute;
-    /* top: 45%; */
+    position: center;
     color:  rgb(9, 10, 90);
 }
 /* link to our store */
 .store {
     color: rgb(9, 10, 90);
-    
+    margin-top: 75%;
     font-size: 150%;
     display: inline-block;
     background-color: none;
-    margin-top: 75%;
+    position: center;
 }
 .store:hover {
     color: #110eda;
 }
 /* footer */
 .footer {
-    position: sticky;
     bottom: 0;
-    height: 20px;
+    height: 30px;
     width: 100%;
     background-color: #cecece;
     text-align: center;
-    padding: 20px 0px;
+    padding: 10px 0px;
 }
 .footer li { 
     display: inline;
@@ -119,18 +118,13 @@ input {
     margin-right: 10%;
     padding: 0;
     border: 3px solid white;
-    /*background-color: rgb(90, 89, 124);
-    background-image: url(../image/bike-shop1.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover; */ 
 }
 .motorcycles h2 {
     height: 20px;
     padding-top: 15px;
     text-decoration: underline;
     color: rgb(0, 0, 0);
-    /* color: rgb(251, 255, 0); */
+
 }
 .motorcycles ul {
     padding-top: 30px;
@@ -171,6 +165,7 @@ input {
     height: 150px;
     text-align: center;
     padding-top: 10px;
+    margin-top: 5%;
     margin-left: 10%;
     background-color: #cecece;
 }
@@ -225,7 +220,7 @@ table {
 /* general enquiries form */
 .g-e {
     width: 90%;
-    height: 280px;
+    height: 300px;
     border: 1px solid black;
     border-radius: 5px;
     margin-left: 5%;
@@ -233,21 +228,22 @@ table {
 .g-e legend {
     font-weight: bold;
     text-align: center;
+    padding: 0 10px 0 10px;
 }
 .g-e input {
     width: 80%;
-    margin-left: 5%;
+    margin-left: 10%;
     margin-top: 2px;
     padding: 2px;
     border-radius: 5px;
 }
 .g-e label {
     width: 50%;
-    padding-left: 5%;
+    padding-left: 10%;
 }
 textarea {
     width: 80%;
-    margin-left: 5%;
+    margin-left: 10%;
     margin-top: 2%;
     border: 1px solid black;
     border-radius: 5px;
@@ -263,6 +259,7 @@ textarea {
 .newsl legend {
     font-weight: bold;
     text-align: center;
+    padding: 0 10px 0 10px;
 }
 .newsl input {
     width: 80%;
