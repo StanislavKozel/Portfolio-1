@@ -184,3 +184,19 @@ footer p {
    float: right;
    margin-right: 5px;
 }
+/* contact us forms */
+.g-e {
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5%;
+    text-align: left;
+}
+
+.newsl {
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5%;
+    text-align: left;
+}
