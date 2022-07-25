@@ -83,7 +83,9 @@ h3 {
     margin-top: 20px;
  }
  .about-us p {
-    margin-top: 20px;
+    width: 60%;
+    margin-top: 40px;
+    margin-left: 20%;
  }
  /* gallery section */
  .gallery {
