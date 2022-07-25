@@ -169,34 +169,79 @@ li {
     text-align: center
 }
 .footer li {
-    display: inline-block;
-       
+    display: inline-block;  
 }
 footer i {
     color: rgb(214, 210, 210);
     padding-top: 14px;
     margin-left: 20px;
-    ;
 }
 footer p {
     font-size: 12px;
-   display: inline;
-   float: right;
-   margin-right: 5px;
+    display: inline;
+    float: right;
+    margin-right: 5px;
 }
 /* contact us forms */
-.g-e {
+.g-e, .newsl {
     width: 90%;
     border: 1px solid black;
     border-radius: 20px;
-    padding: 5%;
+    padding: 2%;
     text-align: left;
+    margin: 3%;
+} 
+/* label {
+    width: 30%;
+    height: auto;
+    float:inline-start;
 }
-
-.newsl {
+input {
+    width: 60%;
+    float: right;
+    margin-right: 5%;
+}
+textarea {
     width: 90%;
+    height: auto;
+    margin-left: 5%;
+} */
+input[type=text], input[type=email], textarea {
+    width: 100%;
+    padding: 12px 0 12px 0;
     border: 1px solid black;
-    border-radius: 20px;
-    padding: 5%;
-    text-align: left;
+    border-radius: 5px;
+    resize: vertical;
+}
+label {
+    padding: 12px 0 12px 0;
+    display: inline-block;
+}
+input[type=submit] {
+    background-color: rgb(121, 180, 248);
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    float: right;
+}
+.col-30 {
+    float: left;
+    width: 30%;
+    margin-top: 6px;
+}
+.col-70 {
+    float: left;
+    width: 70%;
+    margin-top: 6px;
+}
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+@media screen and (max-width: 600px) {
+    .col-30, .col-70, input[type-submit] {
+        width: 100%;
+        margin-top: 0;
+    }
 }

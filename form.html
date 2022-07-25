@@ -18,22 +18,42 @@
                 <h1> Bikers for Bikers</h1>
             </div>
         </header>
-        <main class="style">
+        <main>
             <div class="navbar">
                 <a href="index.html" class="active">Home</a>
-                <!-- <a href="visit-us.html">Visit Us</a>
-                <a href="about.html">About Us</a> -->
             </div>
             <div>
                 <form action="htts://www.bfb.com" method="post">
                     <fieldset class="g-e">
                         <legend>General enquiries</legend>
-                        <label for="full-name">Full name</label>
-                        <input type="text" name="fullname" id="full-name" placeholder="Your full name" required>
-                        <label for="youremail">Your email</label>
-                        <input type="email" name="email" id="youremail" placeholder="Your email" required>
-                        <textarea name="textarea" id="textarea" cols="35" rows="10" placeholder="Please enter your message here."></textarea>
-                        <input type="submit" value="Submit">
+                        <div class="row">
+                            <div class="col-30">
+                                <label for="full-name">Full name</label>
+                            </div>
+                            <div class="col-70">
+                                <input type="text" name="fullname" id="full-name" placeholder="Your full name" required>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-30">
+                                <label for="youremail">Your email</label>
+                            </div>
+                            <div class="col-70">
+                                <input type="email" name="email" id="youremail" placeholder="Your email" required>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-30">
+                                <label for="textarea"> Your message</label>
+                            </div>
+                            <div class="col-70">
+                                <textarea name="textarea" id="textarea" cols="35" rows="10" placeholder="Please enter your message here."></textarea>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <input type="submit" value="Submit">
+                        </div>
+                        
                     </fieldset>
                 </form>
             </div>
