@@ -69,6 +69,11 @@
 # Technology used
  - HTML5
  - CSS3
+ - Google Fonts
+ - Google Maps
+ - Fontawesome
+ - Gitpod
+ - Github
 # Testing
 # Deployment
 # Credits
