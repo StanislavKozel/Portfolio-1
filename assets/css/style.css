@@ -91,8 +91,9 @@ h3 {
  .gallery {
     width: 100%;
     height: 120px;
+    display: block;
     text-align: center;
-    margin-top: 20px;
+    margin: 20px 0;
     padding-top: 50px;
     background:  rgba(12, 12, 175, 0.4);
  }
@@ -113,8 +114,9 @@ h3 {
 .contact {
     width: 100%;
     height: 120px;
+    display: block;
     text-align: center;
-    margin-top: 20px;
+    margin: 20px 0;
     padding-top: 50px;
     background:  rgba(12, 12, 175, 0.4);
 }
@@ -123,7 +125,8 @@ h3 {
     font-weight: bold;
 }
 /* our store */
-#store {
+.store {
+    display: block;
     padding-top: 40px;
 }
 .shop {
@@ -170,7 +173,8 @@ li {
 /* footer */
 .footer {
     width: 100%;
-    height: 60px;
+    height: 80px;
+    position: relative;
     background-color: rgb(98, 99, 99);
 }
 .footer ul {
@@ -179,18 +183,20 @@ li {
     text-align: center
 }
 .footer li {
-    display: inline-block;  
-}
-footer i {
-    color: rgb(214, 210, 210);
+    display: inline-block;
     padding-top: 20px;
     margin-left: 20px;
 }
+footer i {
+    color: rgb(214, 210, 210);
+    
+}
 footer p {
     font-size: 12px;
-    display: inline;
-    float: right;
-    margin-right: 5px;
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    margin-top: 5px;
 }
 
 /* contact us forms */
@@ -236,6 +242,12 @@ input[type=submit] {
     clear: both;
 }
 @media screen and (min-width: 600px) {
+    body {
+        font-size: 18px;
+    }
+    #header {
+        height: 150px;
+    }
     .col-30   {
         width: 30%;
         margin-top: 0;
@@ -246,20 +258,31 @@ input[type=submit] {
     }
 }
 @media  screen and (min-width: 400px) {
+    h1 {
+        font-size: 2.6rem;
+    }
+    .about-us {
+        margin-top: 30px;
+    }
     .about-us p {
         width: 80%;
         margin-top: 20px;
         margin-left: 10%;
      }
     .gallery {
-        display: inline;
-        float: left;
-        width: 50%;
+        display: inline-block;
+        width: 50%;      
     }
     .contact {
-        display: inline;
-         float: right;
-         width: 50%;
+        float: right;
+        width: 50%;
+    }
+    .store {
+        padding-top: 0;
+        margin: 30px 0;
+    }
+    .visit-us {
+        margin: 30px 0;
     }
     .open-hours {
         display: inline;
@@ -271,10 +294,14 @@ input[type=submit] {
          float: right;
          width: 50%;
     }
+    .address h3 {
+        margin: 0;
+    }
     .shop {
         width: 50%;
         display: inline-block;
         margin: 0 auto;
+        margin-bottom: 5px;
 
     }
     .bike-left {
@@ -299,20 +326,33 @@ input[type=submit] {
     }
 }
 @media screen and (min-width: 900px) {
+    body {
+        font-size: 20px;
+    }
+    /* .about-us {
+        height: 250px;
+    } */
     .about-us p {
         width: 60%;
         margin-top: 40px;
         margin-left: 20%;
      }
-    .gallery {
-        display: inline;
-        float: left;
-        width: 50%;
+     .gallery {
+        display: inline-block;
+        width: 50%;      
     }
     .contact {
-        display: inline;
-         float: right;
-         width: 50%;
+        float: right;
+        width: 50%;
+    }
+    /* contact form style */
+    .col-30   {
+        width: 30%;
+        margin-top: 0;
+    }
+    .col-70 {
+        width: 70%;
+        margin-top: 0;
     }
     .open-hours {
         display: inline;
@@ -323,12 +363,13 @@ input[type=submit] {
          display: inline;
          float: right;
          width: 50%;
+         height: 200px;
     }
     .shop {
         width: 33%;
         display: inline-block;
-        margin: 0 auto;
-
+        margin-left: 1%;
+        margin-bottom: 5px;
     }
     .bike-left {
         width: 33%;
@@ -359,7 +400,7 @@ input[type=submit] {
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
-        margin-top: 5px;
+        border-top: 5px;
     }
     .clothes-right {
         width: 33%;
@@ -370,6 +411,6 @@ input[type=submit] {
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
-        margin-top: 5px;
+        border-top: 5px;
     }
 }
