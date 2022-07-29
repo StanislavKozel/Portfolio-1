@@ -46,7 +46,7 @@ h3 {
     justify-content: center;
     align-items: center;
  }  
- /* hero image with navbar and link to our store */
+ /* hero image */
  #hero-img {
     background-image: url(../image/husqvarna-dealer.jpg);
     background-position: center;
@@ -54,6 +54,7 @@ h3 {
     width: 100%;
     height: 400px;
  }
+ /* navigation bar with links */
  .navbar {
     width: 100%;
     text-align: center;
@@ -70,7 +71,7 @@ h3 {
  a:hover {
     color: rgb(248, 244, 14);
  }
- /* about section */
+ /* about us section */
  .about-us {
     width: 100%;
     height: 320px;
@@ -82,7 +83,7 @@ h3 {
     margin-top: 20px;
     margin-left: 5%;
  }
- /* gallery section */
+ /* gallery section with link to gallery.html */
  .gallery {
     width: 100%;
     height: 120px;
@@ -108,7 +109,7 @@ h3 {
     width: 100%;
     margin: 2px 0;
 }
- /* contact us section */
+ /* contact us section with link to form.html */
 .contact {
     width: 100%;
     height: 120px;
@@ -181,7 +182,7 @@ iframe {
     width: 100%; 
     height: 200px; 
 } 
-/* footer */
+/* footer including links to social media sites */
 .footer {
     width: 100%;
     height: 80px;
@@ -250,6 +251,7 @@ input[type=submit] {
     display: table;
     clear: both;
 }
+/* media queries for screens bigger then 420px */ 
 @media  screen and (min-width: 420px) {
     h1 {
         font-size: 2.6rem;
@@ -323,6 +325,7 @@ input[type=submit] {
         background-size: cover;
     }
 }
+/* media queries for screens bigger then 600px */
 @media screen and (min-width: 600px) {
     body {
         font-size: 18px;
@@ -345,6 +348,7 @@ input[type=submit] {
         column-gap: 2px;
     }
 }
+/* media queries for screens bigger then 900px */
 @media screen and (min-width: 900px) {
     body {
         font-size: 20px;
@@ -362,7 +366,6 @@ input[type=submit] {
         float: right;
         width: 50%;
     }
-    /* contact form style */
     .col-30   {
         width: 30%;
         margin-top: 0;
