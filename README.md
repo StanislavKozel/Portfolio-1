@@ -15,13 +15,13 @@
  - access the website in any browser
 # Fonts and Colors
 # Wireframes
-![Site map](docs/screenshot.site.map.png)
-![Home page](docs/screenshot.home.page.png)
-![About us](docs/screenshot.about.us.png)
-![Our store](docs/screenshot.Our.store.png)
-![Contact us](docs/screenshot.contact.us.png)
-![Gallery](docs/screenshot.gallery.png)
-![Visit us](docs/screenshot.visit.us.png)
+![Site map](docs/wireframes/screenshot.site.map.png)
+![Home page](docs/wireframes/screenshot.home.page.png)
+![About us](docs/wireframes/screenshot.about.us.png)
+![Our store](docs/wireframes/screenshot.Our.store.png)
+![Contact us](docs/wireframes/screenshot.contact.us.png)
+![Gallery](docs/wireframes/screenshot.gallery.png)
+![Visit us](docs/wireframes/screenshot.visit.us.png)
 # Features
 ## Existing Features
 ## Hero Logo
