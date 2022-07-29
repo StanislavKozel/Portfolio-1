@@ -97,6 +97,9 @@ h3 {
     color: rgb(244, 244, 244);
     font-weight: bold;
  }
+ a :hover {
+    color: rgb(248, 244, 14);
+ }
  /* gallery page photos */
 #photos {
     clear: both;
@@ -123,6 +126,9 @@ h3 {
     color: rgb(244, 244, 244);
     font-weight: bold;
 }
+ a:hover {
+    color: rgb(248, 244, 14);
+ } 
 /* our store */
 .store {
     display: block;
