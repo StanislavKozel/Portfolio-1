@@ -47,7 +47,7 @@ h3 {
  }  
  /* hero image with navbar and link to our store */
  #hero-img {
-    background-image: url(../image/Husqvarna-Dealer.jpg);
+    background-image: url(../image/husqvarna-dealer.jpg);
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
@@ -391,7 +391,7 @@ input[type=submit] {
         height: 200px;
         display: block;
         float: left;
-        background-image: url(../image/norden-901.jpg);
+        background-image: url(../image/norden-dual_spotr.jpg);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -401,7 +401,7 @@ input[type=submit] {
         height: 200px;
         display: block;
         float: right;
-        background-image: url(../image/offroad\ range.webp);
+        background-image: url(../image/offroad_range.webp);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -422,7 +422,7 @@ input[type=submit] {
         height: 200px;
         display: block;
         float: right;
-        background-image: url(../image/Husqwarna-helmet.jpeg);
+        background-image: url(../image/husqwarna-helmet.jpeg);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
