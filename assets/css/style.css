@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,700;1,400&family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -8,7 +9,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
-    color: rgb(214, 210, 210);
+    color: rgb(244, 244, 244);
     background: rgb(37, 37, 228);
     height: auto;
 }
@@ -61,7 +62,7 @@ h3 {
  }
  .navbar a {
     display: inline-block;
-    color: rgb(214, 210, 210);
+    color: rgb(244, 244, 244);
     margin-left: 10px;
     text-decoration: none;
     line-height: 60px;
@@ -92,17 +93,19 @@ h3 {
     background:  rgba(12, 12, 175, 0.4);
  }
  .gallery a {
-    color: rgb(214, 210, 210);
+    color: rgb(244, 244, 244);
     font-weight: bold;
  }
- /* gallery page */
+ /* gallery page photos */
 #photos {
+    
     clear: both;
     line-height: 0;
     column-count: 1;
     column-gap: 2px;
 }
 #photos > img {
+    height: auto;
     width: 100%;
     margin: 2px 0;
 }
@@ -117,7 +120,7 @@ h3 {
     background:  rgba(12, 12, 175, 0.4);
 }
 .contact a {
-    color: rgb(214, 210, 210);
+    color: rgb(244, 244, 244);
     font-weight: bold;
 }
 /* our store */
@@ -197,7 +200,7 @@ iframe {
     margin-left: 20px;
 }
 footer i {
-    color: rgb(214, 210, 210);   
+    color: rgb(244, 244, 244);   
 }
 footer p {
     font-size: 12px;
@@ -391,7 +394,7 @@ input[type=submit] {
         height: 200px;
         display: block;
         float: left;
-        background-image: url(../image/norden-dual_spotr.jpg);
+        background-image: url(../image/norden-dual-spotr.jpg);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -401,7 +404,7 @@ input[type=submit] {
         height: 200px;
         display: block;
         float: right;
-        background-image: url(../image/offroad_range.webp);
+        background-image: url(../image/offroad-range.webp);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
