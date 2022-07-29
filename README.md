@@ -1,5 +1,5 @@
 # Bikers for Bikers
-![](vscode-remote://stanislavko-bikersforbi-z0pyq2fnedw.ws-eu54.gitpod.io/workspace/Bikers-for-Bikers/docs/validation/responsive-site.png)
+![](docs/validation/responsive-site.png)
 # Content
 # Project Overview
  - A website for for anyone who would like to purchase a motorcycle, motorcycle accessories, clothing for themselves or for their loved ones.  
@@ -15,6 +15,10 @@
  - open the website on any device
  - access the website in any browser
 # Fonts and Colors
+## Fonts used 
+
+## Colors used
+![](docs/validation/coolors.png)
 # Wireframes
 ![Site map](docs/wireframes/screenshot.site.map.png)
 ![Home page](docs/wireframes/screenshot.home.page.png)
