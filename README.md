@@ -99,12 +99,14 @@
  - Featured on every page
  - Navbar including a Home, About us, Our store and Visit us buttons with links to coresponding pages
  - It allows user to easily navigate the page
+ 
 ![](docs/features/header.png)
 ## Home page
  - webpage includes header with hero logo
  - navigation bar
  - an image of the shop
  - from home page we gain access to About us secion, Our Store, and Visit us section
+
 ![](docs/features/homepage.png)
 ## About us
  - User can find a few words about history of our company, and where it all sterted.
@@ -144,7 +146,7 @@
 ![](docs/features/footer.png)
 ## Image Gallery
  - a small selection from what we have to offer
- 
+
 ![](docs/features/image-galery.png)
 ## Contact forms
  - ask a question 
