@@ -1,5 +1,5 @@
 # Bikers for Bikers
-![](docs/validation/responsive-site.png)
+![](docs/technologies/responsive-site.png)
 # Table of Content
 - [Project goals](#Project-Overview)
   - User goals
@@ -18,6 +18,8 @@
   - Languages Used
   - Frameworks & Tool
 - [Testing](#testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
 
 # Project Overview
  - A website for for anyone who would like to purchase a motorcycle, motorcycle accessories, clothing for themselves or for their loved ones.  
@@ -34,9 +36,10 @@
  - access the website in any browser
 # Design
 ## Fonts used 
-
+![](vscode-remote://stanislavko-bikersforbi-z0pyq2fnedw.ws-eu54.gitpod.io/workspace/Bikers-for-Bikers/docs/technologies/font-screenshot-open_sans.png)
+![](vscode-remote://stanislavko-bikersforbi-z0pyq2fnedw.ws-eu54.gitpod.io/workspace/Bikers-for-Bikers/docs/technologies/fonts-creenshot-poppins.png)
 ## Colors used
-![](docs/validation/coolors.png)
+![](docs/technologies/coolors.png)
 # Wireframes
 ![Site map](docs/wireframes/screenshot.site.map.png)
 ![Home page](docs/wireframes/screenshot.home.page.png)
