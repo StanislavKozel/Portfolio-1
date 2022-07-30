@@ -1,6 +1,24 @@
 # Bikers for Bikers
 ![](docs/validation/responsive-site.png)
-# Content
+# Table of Content
+- [Project goals](#Project-Overview)
+  - User goals
+  - Site Owner Goals
+- [User Experience](#ux)
+  - Target Audiance
+  - User Expectation
+  - User Stories
+- [Design](#design)
+  - Colors used
+  - Fonts used
+  - Structure
+  - Wireframes
+- [features](#features)
+- [Technology Used](#technology-used)
+  - Languages Used
+  - Frameworks & Tool
+- [Testing](#testing)
+
 # Project Overview
  - A website for for anyone who would like to purchase a motorcycle, motorcycle accessories, clothing for themselves or for their loved ones.  
 # UX
@@ -14,7 +32,7 @@
  - find directions and opening hours so I can plan a visit in person 
  - open the website on any device
  - access the website in any browser
-# Fonts and Colors
+# Design
 ## Fonts used 
 
 ## Colors used
@@ -72,13 +90,23 @@
 ## Footer
  - a classic footer with links to social media positioned to the right hand side 
 # Technology used
+## Languages
  - HTML5
  - CSS3
+## frameworks & Tools
  - Google Fonts
  - Google Maps
  - Fontawesome
  - Gitpod
  - Github
 # Testing
+ - Html Validation
+ - CSS Validatiion
+ - Accessibility
+ - Performance
+ - Browser Compatibility
 # Deployment
 # Credits
+ - Code
+ - Media
+ - Acknowledgements
