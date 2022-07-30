@@ -99,7 +99,7 @@
  - Featured on every page
  - Navbar including a Home, About us, Our store and Visit us buttons with links to coresponding pages
  - It allows user to easily navigate the page
- 
+
 ![](docs/features/header.png)
 ## Home page
  - webpage includes header with hero logo
@@ -189,7 +189,11 @@
 ### Browser Compatibility
  - Website was tested manualy on following browsers - Google Chrome, Microsoft Edge, Safari. The results were satisfactory.
 # Deployment
-
+1. Log in to GitHub repository and navigate to the Settings.
+2. In menu on left side select Pages.
+3. In Source dropdown menu select "Deploy from a Branch".
+4. In Branch dropdown menu select "Main" , "/Root" and save.
+5. The page will refresh and you receive a message "Your site is live at https://stanislavkozel.github.io/Bikers-for-Bikers/.
 # Credits
  - Code
  - Media
