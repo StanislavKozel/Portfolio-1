@@ -39,17 +39,31 @@
  - Provide a way for new and existing customers to contact the store.
  - Provide information about the bussines to customer. 
 # User Experiance
-
- - Bikers for Bikers was designed to provide easy navigation throughout the website with simple to read text and photos.
+## Target Audience
+ - User is looking for place to buy all they need in one go.
+ - User would like to order online and get it delivered.
+ - User would like to visit shop in person.
+ - User would like to know who they are dealing with.
+ ## User Expectations
+ - A simple navigation system.
+ - Quick and easy to find relevant information.
+ - Simple content that user can skim read.
+ - Easy way to contact the bussines.
+ - Simple instruction how to find our store.
 # User Stories
 ## As a user, I would like to 
- - easily navigate throughout the website
- - find relative information about the product
- - contact the store with any enquiries
- - receive promotional codes and offers
- - find directions and opening hours so I can plan a visit in person 
- - open the website on any device
- - access the website in any browser
+### First Time User
+ - Easily navigate throughout the website.
+ - Find relative information about the product.
+ - Contact the store with any enquiries.
+ - Find directions and opening hours so I can plan a visit in person.
+### Returming User
+ - Open the website on any device.
+ - Access the website in any browser.
+ - Receive promotional codes and offers.
+ - Contact the store with any enquiries.
+ - I would like to find the store on social media.
+ - Find directions and opening hours so I can plan a visit in person.
 # Design
 ## Fonts used 
 ![](docs/technologies/font-screenshot-open_sans.png)
