@@ -51,7 +51,6 @@
  - Easy way to contact the bussines.
  - Simple instruction how to find our store.
 # User Stories
-## As a user, I would like to 
 ### First Time User
  - Easily navigate throughout the website.
  - Find relative information about the product.
@@ -64,9 +63,20 @@
  - Contact the store with any enquiries.
  - I would like to find the store on social media.
  - Find directions and opening hours so I can plan a visit in person.
+### Site owner
+ - I would like users to receive news and offers from our store.
+ - I would like users to be able to contact us.
+ - I would like users to be able to find information where to visit us.
+ - I would like users to be able to find information about when store is open.
 # Design
 ## Fonts used 
+### Open Sans
+ - The Open sans font is the main font used used throughout the website with San Serif as the fallback font. It is easy to read font and it was imported to css document from [Google fonts](https://developers.google.com/fonts).
+
 ![](docs/technologies/font-screenshot-open_sans.png)
+### Poppins
+ - Poppins It is easy to read font and it was used for hero logo only. Font was imported to css document from [Google fonts](https://developers.google.com/fonts) and it has a fallback font of San Serif.
+
 ![](docs/technologies/fonts-creenshot-poppins.png)
 ## Colors used
 ![](docs/technologies/coolors.png)
