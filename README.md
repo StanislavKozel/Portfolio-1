@@ -78,7 +78,10 @@
  - Poppins It is easy to read font and it was used for hero logo only. Font was imported to css document from [Google fonts](https://developers.google.com/fonts) and it has a fallback font of San Serif.
 
 ![](docs/technologies/fonts-creenshot-poppins.png)
+
 ## Colors used
+ - Colors used in this project are matching color scheme of the product.
+
 ![](docs/technologies/coolors.png)
 # Wireframes
 ![Site map](docs/wireframes/screenshot.site.map.png)
@@ -89,49 +92,50 @@
 ![Gallery](docs/wireframes/screenshot.gallery.png)
 ![Visit us](docs/wireframes/screenshot.visit.us.png)
 # Features
+
 ## Existing Features
-## Hero Logo
- - Fixed within the header at the top of every page 
-## Navigation bar
- - featured on every page below header
- - Including a Home, About us, Our store and Visit us buttons with links to coresponding pages 
+
+## Logo and Navigation bar
+ - Featured on every page
+ - Navbar including a Home, About us, Our store and Visit us buttons with links to coresponding pages
+ - It allows user to easily navigate the page
+
 ## Home page
-- webpage includes header with hero logo
- - navigation bar
- - an image of the shop
- - from home page we gain  access to About us page, Store page and Visit us page
-## About us
-- webpage includes header with hero logo
- - navigation bar
- - User can find a few words about history of our company, and where it all sterted.
- - link to our gallery
- - link to our contact form
- - link to our newsletter sign up form
-## Our store
  - webpage includes header with hero logo
  - navigation bar
- - search bar is below navigation bar for quick find of a desired product
- - webpage includes two different types of product 
+ - an image of the shop
+ - from home page we gain access to About us secion, Our Store, and Visit us section
+
+## About us
+ - User can find a few words about history of our company, and where it all sterted.
+ - Section Gallery with link to our gallery
+ - Section Contact us with link to our contact form
+
+## Our store
+ - Webpage includes two different types of product categories.
     - motorcycles
     - clothing
+
 ## Contact us
 - webpage includes header with hero logo
  - navigation bar
  - webpage includes a two different types of form
    - general enquiry
    - newsletters
+
 ## gallery
 - webpage includes header with hero logo
  - navigation bar
- - user can view a few photos from inside and outside of the shop
+ - user can view a photos about our shop
+
 ## Visit us
- - webpage includes header with hero logo
- - navigation bar
+ - opening hours
  - shop adress
  - google map
- - opening hours 
+
 ## Footer
- - a classic footer with links to social media positioned to the right hand side 
+ - a classic footer with links to social media positioned to the middle 
+
 # Technology used
 ## Languages
  - HTML5
@@ -142,13 +146,16 @@
  - Fontawesome
  - Gitpod
  - Github
+
 # Testing
  - Html Validation
  - CSS Validatiion
  - Accessibility
  - Performance
  - Browser Compatibility
+
 # Deployment
+
 # Credits
  - Code
  - Media
