@@ -110,34 +110,41 @@
  - User can find a few words about history of our company, and where it all sterted.
  - Section Gallery with link to our gallery
  - Section Contact us with link to our contact form
+
 ![](docs/features/about-us.png)
 ## gallery
-- webpage includes header with hero logo
+ - webpage includes header with hero logo
  - navigation bar
  - user can view a photos about our shop
+
  ![](docs/features/gallery-.png)
 ## Contact us
-- webpage includes header with hero logo
+ - webpage includes header with hero logo
  - navigation bar
  - webpage includes a two different types of form
    - general enquiry
    - newsletters
+
 ![](docs/features/contact-us-.png)
 ## Our store
  - Webpage includes two different types of product categories.
     - motorcycles
     - clothing
+
 ![](docs/features/our-store.png)
 ## Visit us
  - opening hours
  - shop adress
  - google map
+
 ![](docs/features/visit-us.png)
 ## Footer
  - a classic footer with links to social media positioned to the middle 
+
 ![](docs/features/footer.png)
 ## Image Gallery
  - a small selection from what we have to offer
+ 
 ![](docs/features/image-galery.png)
 ## Contact forms
  - ask a question 
