@@ -99,53 +99,53 @@
  - Featured on every page
  - Navbar including a Home, About us, Our store and Visit us buttons with links to coresponding pages
  - It allows user to easily navigate the page
-
+![](docs/features/header.png)
 ## Home page
  - webpage includes header with hero logo
  - navigation bar
  - an image of the shop
  - from home page we gain access to About us secion, Our Store, and Visit us section
-
+![](docs/features/homepage.png)
 ## About us
  - User can find a few words about history of our company, and where it all sterted.
  - Section Gallery with link to our gallery
  - Section Contact us with link to our contact form
-
-## Our store
- - Webpage includes two different types of product categories.
-    - motorcycles
-    - clothing
-
+![](docs/features/about-us.png)
+## gallery
+- webpage includes header with hero logo
+ - navigation bar
+ - user can view a photos about our shop
+ ![](docs/features/gallery-.png)
 ## Contact us
 - webpage includes header with hero logo
  - navigation bar
  - webpage includes a two different types of form
    - general enquiry
    - newsletters
-
-## gallery
-- webpage includes header with hero logo
- - navigation bar
- - user can view a photos about our shop
-
+![](docs/features/contact-us-.png)
+## Our store
+ - Webpage includes two different types of product categories.
+    - motorcycles
+    - clothing
+![](docs/features/our-store.png)
 ## Visit us
  - opening hours
  - shop adress
  - google map
-
+![](docs/features/visit-us.png)
 ## Footer
  - a classic footer with links to social media positioned to the middle 
-
+![](docs/features/footer.png)
 # Technology used
 ## Languages
  - HTML5
  - CSS3
 ## frameworks & Tools
+ - Gitpod
+ - Github
  - Google Fonts
  - Google Maps
  - Fontawesome
- - Gitpod
- - Github
 
 # Testing
  - Html Validation
