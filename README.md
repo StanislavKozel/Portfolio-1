@@ -136,6 +136,13 @@
 ## Footer
  - a classic footer with links to social media positioned to the middle 
 ![](docs/features/footer.png)
+## Image Gallery
+ - a small selection from what we have to offer
+![](docs/features/image-galery.png)
+## Contact forms
+ - ask a question 
+ - or sign up for newsletters
+![](docs/features/forms.png)
 # Technology used
 ## Languages
  - HTML5
