@@ -155,12 +155,30 @@
  - Fontawesome
 
 # Testing
- - Html Validation
- - CSS Validatiion
- - Accessibility
- - Performance
- - Browser Compatibility
-
+## Accessibility
+ - WAVE Web Accessibility Evaluation Tool was used.
+ ![](docs/validation/wave.png)
+## Performance
+ - Lighthouse Web dev tool used for performance testing 
+ ![](docs/validation/lighthouse-performance.png)
+## Html Validation
+### W3C Validator was used
+ - index.html with no bugs
+ ![](docs/validation/screenshot-index.html.png)
+ - form.html with no bugs
+ ![](docs/validation/screenshot-form.html.png)
+ - gallery.html with bugs
+ ![](docs/validation/screenshot-gallery-bugs.png)
+ - gallery.html with no bugs
+ ![](docs/validation/screenshot-gallery.png)
+## CSS Validatiion
+### W3CValidator was used
+ - style.css
+ ![](docs/validation/screenshot-css-validator.png)
+ - style.css W3C message 
+ ![](docs/validation/screenshot-css-validator-message.png)
+### Browser Compatibility
+ - Website was tested manualy on following browsers - Google Chrome, Microsoft Edge, Safari. The results were satisfactory.
 # Deployment
 
 # Credits
