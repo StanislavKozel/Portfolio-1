@@ -147,7 +147,7 @@ li {
 /* visit us section as appears on small and medium size phones up to 420px*/
 .open-hours {
     width: 100%;
-    height: 200px;
+    height: 150px;
     padding-top: 30px;
 }
 .hours {
@@ -167,18 +167,13 @@ li {
 .address {
     width: 100%;
     height: 120px;
-    padding-top: 30px;
     text-align: center;
 }
 .address p {
-    padding-top: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-address {
-    text-decoration: underline;
-    font-weight: bold;
+    text-decoration: none;
 }
 /* iframe */
 .map {
@@ -237,7 +232,7 @@ label {
     padding: 12px 0 12px 0;
     display: inline-block;
 }
-/* submit button */
+/* submit button  for forms on Contact Us page */
 input[type=submit] {
     background-color: rgb(121, 180, 248);
     padding: 10px;
@@ -339,6 +334,11 @@ input[type=submit] {
          display: inline;
          float: right;
          width: 50%;
+         height: 150px;
+         padding-top: 30px;
+    }
+    .address p {
+        padding-top: 20px;
     }
     .address h3 {
         margin: 0;
