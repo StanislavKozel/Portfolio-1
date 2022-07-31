@@ -1,19 +1,19 @@
 # Bikers for Bikers
 ![](docs/technologies/responsive-site.png)
 # Table of Content
-- [Project goals](#Project)
-  - User goals
+- [Project Goals](#Project)
+  - User Goals
   - Site Owner Goals
 - [User Experience](#user-experiance)
   - Target Audiance
   - User Expectation
   - User Stories
 - [Design](#design)
-  - Colors used
-  - Fonts used
+  - Colors Used
+  - Fonts Used
   - Structure
   - Wireframes
-- [features](#features)
+- [Features](#features)
 - [Technology Used](#technology-used)
   - Languages Used
   - Frameworks & Tool
@@ -28,9 +28,9 @@
 
 # Project
 ## Overview
- - A website for for anyone who would like to purchase a motorcycle, motorcycle accessories, clothing for themselves or for their loved ones.  
+ - A website for anyone who would like to purchase a motorcycle, motorcycle accessories, clothing for themselves or for their loved ones.  
 ## User Goals
- - Finding a place to purchase not only motorcycle, but clothes and accessories as well.
+ - Finding a place to purchase not only a motorcycle, but clothes and accessories as well.
  - Find information about the shop.
  - Find the location of the shop. 
 ## Site Owner Goal
@@ -38,7 +38,7 @@
  - Promote the bussines.
  - Provide a way for new and existing customers to contact the store.
  - Provide information about the bussines to customer. 
-# User Experiance
+# User Experience
 ## Target Audience
  - User is looking for place to buy all they need in one go.
  - User would like to order online and get it delivered.
@@ -48,29 +48,29 @@
  - A simple navigation system.
  - Quick and easy to find relevant information.
  - Simple content that user can skim read.
- - Easy way to contact the bussines.
- - Simple instruction how to find our store.
+ - Easy way to contact the bussiness.
+ - Simple instructions how to find our store.
 # User Stories
 ### First Time User
  - Easily navigate throughout the website.
  - Find relative information about the product.
  - Contact the store with any enquiries.
  - Find directions and opening hours so I can plan a visit in person.
-### Returming User
+### Returning User
  - Open the website on any device and any browser.
  - Contact the store with any enquiries.
  - Receive promotional codes and offers.
  - I would like to find the store on social media.
  - Find directions and opening hours so I can plan a visit in person.
-### Site owner
+### Site Owner
  - I would like users to receive news and offers from our store.
  - I would like users to be able to contact us.
  - I would like users to be able to find information where to visit us.
- - I would like users to be able to find information about when store is open.
+ - I would like users to be able to find information about when the store is open.
 # Design
-## Fonts used 
+## Fonts Used 
 ### Open Sans
- - The Open sans font is the main font used used throughout the website with San Serif as the fallback font. It is easy to read font and it was imported to css document from [Google fonts](https://developers.google.com/fonts).
+ - The Open Sans font is the main font used used throughout the website with San Serif as the fallback font. It is easy to read font and it was imported to css document from [Google fonts](https://developers.google.com/fonts).
 
 ![](docs/technologies/font-screenshot-open_sans.png)
 ### Poppins
@@ -78,8 +78,8 @@
 
 ![](docs/technologies/fonts-creenshot-poppins.png)
 
-## Colors used
- - Colors used in this project are matching color scheme of the product.
+## Colours Used
+ - Colors used in this project are matching the color scheme of the product.
 
 ![](docs/technologies/coolors.png)
 # Wireframes
@@ -94,62 +94,63 @@
 
 ## Existing Features
 
-## Logo and Navigation bar
- - Featured on every page
- - Navbar including a Home, About us, Our store and Visit us buttons with links to coresponding pages
- - It allows user to easily navigate the page
+## Logo and Navigation Bar
+ - Featured on every page.
+ - Navbar including a Home, About us, Our store and Visit us buttons with links to corresponding pages.
+ - It allows user to easily navigate the page.
 
 ![](docs/features/header.png)
 ## Home page
- - webpage includes header with hero logo
- - navigation bar
- - an image of the shop
- - from home page we gain access to About us secion, Our Store, and Visit us section
+ - webpage includes header with hero logo.
+ - navigation bar.
+ - an image of the shop.
+ - from home page we gain access to About us secion, Our Store, and Visit us section.
 
 ![](docs/features/homepage.png)
 ## About us
  - User can find a few words about history of our company, and where it all sterted.
- - Section Gallery with link to our gallery
- - Section Contact us with link to our contact form
+ - Section Gallery with link to our gallery.
+ - Section Contact us with link to our contact form.
 
 ![](docs/features/about-us.png)
 ## gallery
- - webpage includes header with hero logo
- - navigation bar
- - user can view a photos about our shop
+ - webpage includes header with hero logo.
+ - navigation bar.
+ - user can view a photos about our shop.
 
  ![](docs/features/gallery-.png)
 ## Contact us
- - webpage includes header with hero logo
- - navigation bar
+ - webpage includes header with hero logo.
+ - navigation bar.
  - webpage includes a two different types of form
    - general enquiry
    - newsletters
 
 ![](docs/features/contact-us-.png)
 ## Our store
- - Webpage includes two different types of product categories.
+ - Webpage includes two different types of product categories
     - motorcycles
     - clothing
 
 ![](docs/features/our-store.png)
 ## Visit us
- - opening hours
- - shop adress
- - google map
+ - opening hours.
+ - shop adress.
+ - google map.
 
 ![](docs/features/visit-us.png)
 ## Footer
- - a classic footer with links to social media positioned to the middle 
+ - a classic footer with links to social media positioned to the middle.
 
 ![](docs/features/footer.png)
 ## Image Gallery
- - a small selection from what we have to offer
+ - a small selection from what we have to offer.
 
 ![](docs/features/image-galery.png)
 ## Contact forms
- - ask a question 
- - or sign up for newsletters
+ - ask a question.
+ - or sign up for newsletters.
+
 ![](docs/features/forms.png)
 # Technology used
 ## Languages
@@ -161,13 +162,13 @@
  - Google Fonts
  - Google Maps
  - Fontawesome
-
+ - Coolors
 # Testing
 ## Accessibility
  - WAVE Web Accessibility Evaluation Tool was used.
  ![](docs/validation/wave.png)
 ## Performance
- - Lighthouse Web dev tool used for performance testing 
+ - Lighthouse Web dev tool used for performance testing. 
  ![](docs/validation/lighthouse-performance.png)
 ## Html Validation
 ### W3C Validator was used
@@ -262,11 +263,11 @@
 |-------------|------------|------------|
 | Navigation Bar | Click on link Visit Us | User is redirected to section with google map and address information |
 
- - I would like users to be able to find information about when store is open.
+ - I would like users to be able to find information about when the store is open.
 
 | **Feature** | **Action** | **Result** |
 |-------------|------------|------------|
-| Navigation Bar | Click on link Visit Us | User is redirected to section with  open hours information |
+| Navigation Bar | Click on link Visit Us | User is redirected to section with open hours information |
  
 # Deployment
 1. Log in to GitHub repository and navigate to the Settings.
