@@ -57,10 +57,9 @@
  - Contact the store with any enquiries.
  - Find directions and opening hours so I can plan a visit in person.
 ### Returming User
- - Open the website on any device.
- - Access the website in any browser.
- - Receive promotional codes and offers.
+ - Open the website on any device and any browser.
  - Contact the store with any enquiries.
+ - Receive promotional codes and offers.
  - I would like to find the store on social media.
  - Find directions and opening hours so I can plan a visit in person.
 ### Site owner
@@ -188,6 +187,87 @@
  ![](docs/validation/screenshot-css-validator-message.png)
 ### Browser Compatibility
  - Website was tested manualy on following browsers - Google Chrome, Microsoft Edge, Safari. The results were satisfactory.
+## Testing user stories
+### As a first time user i would like to
+ - Easily navigate throughout the website.
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|------------|
+| Navigation Bar | Click on links to take you to different parts of the website | User is redirected to relevant part of the website|
+
+ - Find relative information about the product.
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|------------|
+| Navigation Bar | Click on links to take you to our shop part of the website | User is redirected to Our shop section |
+
+ - Contact the store with any enquiries.
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|------------|
+| Use Contact Us link in About us section | Click on link | User is redireced to Contact Us page with general enquiries form |
+
+ - Find directions and opening hours so I can plan a visit in person.
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|------------|
+| Navigation Bar | Click on link Visit Us | User is redirected to section with google map, open hours and address |
+### Returming User
+ - Open the website on any device and any browser.
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|------------|
+| Enter website mane in browser searchbar | Website will display on small screen smart phones to large res monitors | Works as expected |
+
+ - Contact the store with any enquiries.
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|------------|
+| Use Contact Us link in About us section | Click on link | User is redireced to Contact Us page with general enquiries form |
+
+ - Receive promotional codes and offers.
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|------------|
+| Use Contact us link in About us section | Click on link | User is redireced to Contact Us page with Newsletter form |
+
+ - I would like to find the store on social media.
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|------------|
+| All social media links are located in footer | Click on link | User is redirected to our social media account |
+
+ - Find directions and opening hours so I can plan a visit in person.
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|------------|
+| Navigation Bar | Click on link Visit Us | User is redirected to section with google map, open hours and address |
+
+### Site owner
+ - I would like users to receive news and offers from our store.
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|------------|
+| Contact Us form | Click on link Contact Us | User is redirected to page with newsletter form |
+
+ - I would like users to be able to contact us.
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|------------|
+| Contact Us form | Click on link Contact Us | User is redirected to page with General nquiries form |
+
+ - I would like users to be able to find information where to visit us.
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|------------|
+| Navigation Bar | Click on link Visit Us | User is redirected to section with google map and address information |
+
+ - I would like users to be able to find information about when store is open.
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|------------|
+| Navigation Bar | Click on link Visit Us | User is redirected to section with  open hours information |
+ 
 # Deployment
 1. Log in to GitHub repository and navigate to the Settings.
 2. In menu on left side select Pages.
