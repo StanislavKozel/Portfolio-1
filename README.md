@@ -201,6 +201,8 @@
 ## Media
  - All media were sourced from google images
 ## Acknowledgements
+I would like to send thanks to 
+
  - My mentor Mo Shami for his feedback, advice and guindance.
  - Code Institute Slack comunity for their help and support.
  - W3C schools for great learning resources.
