@@ -195,8 +195,18 @@
 4. In Branch dropdown menu select "Main" , "/Root" and save.
 5. The page will refresh and you receive a message "Your site is live at https://stanislavkozel.github.io/Bikers-for-Bikers/.
 # Credits
- - Code
- - Media
- - Acknowledgements
+## Code
+ - Code Institute README.md template was used to create this document
+ - W3C shools to create responsive design
+## Media
+ - All media were sourced from google images
+## Acknowledgements
+ - My mentor Mo Shami for his feedback, advice and guindance.
+ - Code Institute Slack comunity for their help and support.
+ - W3C schools for great learning resources.
+## Disclaimer
+ - Pictures are sourced from Google.
+ - I have no affiliation with Redline Motorcycles ltd, their location was sourced from Google. Used for the purpose of this project only.
+  
 
 [Back to top](#bikers-for-bikers)
